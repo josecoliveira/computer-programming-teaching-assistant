@@ -17,4 +17,3 @@ while True:
 print("Conjunto lido:", ", ".join(map(str, allL)))
 print("Conjunto dos valores ímpares:", ", ".join(map(str, odds)))
 print("Conjunto dos valores pares:", ", ".join(map(str, even)))
-
